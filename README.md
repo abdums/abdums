@@ -1,7 +1,7 @@
-### Hi there 👋
-It's a me Abdu :smiling_me.
-I'm currently having fun, just poking around here and there.
-But I'm more focused on Java :coffeestuff 😆.
+### Hi there 👋  
+It's a me Abdu :smiling_me.  
+I'm currently having fun, just poking around here and there.  
+But I'm more focused on Java :coffeestuff 😆.  
 
 
 
