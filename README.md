@@ -1,4 +1,9 @@
 ### Hi there 👋
+It's a me Abdu :smiling_me.
+I'm currently having fun, just poking around here and there.
+But I'm more focused on Java :coffeestuff 😆.
+
+
 
 <!--
 **abdums/abdums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
